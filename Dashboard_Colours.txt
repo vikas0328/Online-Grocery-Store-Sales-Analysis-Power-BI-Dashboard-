@@ -1,0 +1,4 @@
+Burgundy #881952
+Amber #FC552F
+Green #1DC750
+Transparent Burgundy #FFDFD9
