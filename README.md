@@ -21,8 +21,9 @@ Rating <br>
 Shop Opening Year <br>
 
 The dataset was imported from Excel into Power BI. <br>
+
 **Report View** <br>
-<img src="https://github.com/vikas0328/Online-Grocery-Store-Sales-Analysis-Power-BI-Dashboard-/blob/55a238416ab4e32476533fae7328f2be9245b9e0/Report_View.pdf" alt="Image Description" width="600">
+<img src="https://github.com/vikas0328/Online-Grocery-Store-Sales-Analysis-Power-BI-Dashboard-/blob/5e8d0741aef847ff768e1130af320ce6753a15c7/Report_View.png" alt="Image Description" width="600">
 <br><br>
 
 **KPIs Created**
