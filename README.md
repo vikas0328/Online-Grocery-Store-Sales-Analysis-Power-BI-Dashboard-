@@ -73,3 +73,49 @@ Line chart showing trends based on Shop Opening Year
 
 **Dynamic Visual**<br>
 Donut chart with dynamic measure selection using field parameters where legends are based on Shop Size.
+
+**Interactive Features**
+
+The dashboard includes interactive slicers/filter panels for:<br>
+Shop Opening Year<br>
+Shop Size<br>
+City Type<br>
+
+These filters help users explore the data dynamically and gain deeper insights.
+
+**Tools & Technologies Used**<br>
+Power BI<br>
+Power Query<br>
+DAX<br>
+Microsoft Excel<br>
+
+**Key Skills Demonstrated**<br>
+Data Cleaning<br>
+Data Visualization<br>
+Dashboard Design<br>
+DAX Calculations<br>
+KPI Development<br>
+Interactive Reporting<br>
+Business Insights Generation<br>
+Power Query Transformation<br>
+Field Parameters in Power BI<br>
+
+**Project Outcome**
+
+This project helped strengthen my understanding of:<br>
+Building interactive Power BI dashboards<br>
+Creating and using DAX measures<br>
+Designing business-focused visual reports<br>
+Working with slicers and dynamic visuals<br>
+Performing data preparation using Power Query<br>
+
+The dashboard provides a clear overview of grocery sales performance and helps identify trends across product categories, city tiers, and shop types.
+
+🚀 **How to Use**<br>
+Download the .pbix file and open it in Power BI Desktop to explore the dashboard or watch the video above.
+
+📎 **Summary**<br>
+This project demonstrates how Power BI can be used to analyze retail and grocery sales data through interactive dashboards, KPI tracking, and dynamic visualizations. It highlights key business insights related to sales performance, customer ratings, shop trends, and product categories using data-driven reporting.
+
+🙌 **Feedback**<br>
+Feel free to explore the project and please share any feedback or suggestions for improvement!
