@@ -53,22 +53,22 @@ A dynamic measure was also created using Power BI field parameters to allow user
 
 The dashboard contains multiple visualizations to provide business insights:
 
-**Sales Analysis**
+**Sales Analysis**<br>
 Total Sales by City Type<br>
 Top Item Categories by Total Sales<br>
 Sales comparison across different shop types<br>
 
-**Order Analysis**
+**Order Analysis**<br>
 Total Orders by City Type
 
-**Shop Type performance table with:**
+**Shop Type performance table with:**<br>
 Total Sales<br>
 Total Orders<br>
 Average Sales<br>
 Average Rating<br>
 
-**Trend Analysis**
+**Trend Analysis**<br>
 Line chart showing trends based on Shop Opening Year
-Dynamic Visual
-Donut chart with dynamic measure selection using field parameters
-Legends based on Shop Size
+
+**Dynamic Visual**<br>
+Donut chart with dynamic measure selection using field parameters where legends are based on Shop Size.
