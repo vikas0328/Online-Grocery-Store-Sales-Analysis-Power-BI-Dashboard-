@@ -27,7 +27,7 @@ The dataset was imported from Excel into Power BI. <br>
 <br><br>
 
 👉 **Watch Video** : <br>
-[![Watch the video](https://img.youtube.com/vi/KMd7rF1q1Bk/hqdefault.jpg)](https://youtu.be/KMd7rF1q1Bk)
+[![Watch the video](https://img.youtube.com/vi/9QImgq6IcO0/hqdefault.jpg)](https://youtu.be/9QImgq6IcO0)
 
 **KPIs Created**
 
