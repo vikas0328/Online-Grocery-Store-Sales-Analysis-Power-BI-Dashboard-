@@ -1,4 +1,4 @@
-# Online-Grocery-Store-Sales-Analysis-Power-BI-Dashboard-
+# Online Grocery Store Sales Analysis | Power BI
 **Project Overview**
 
 This project is an interactive Power BI dashboard created using an Excel dataset from an online grocery store business. The dashboard focuses on analyzing sales performance, customer ratings, order trends, shop performance, and product category insights across different city and shop types.
